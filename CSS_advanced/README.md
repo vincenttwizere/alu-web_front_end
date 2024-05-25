@@ -1,7 +1,9 @@
 Advanced CSS Techniques
+
 This project focuses on advanced CSS techniques, aiming to enhance your understanding and implementation of modern CSS features and best practices.
 
 Resources
+
 Read or watch the following resources to build a solid foundation in CSS:
 
 CSS Reference - A free visual guide to CSS
@@ -13,6 +15,7 @@ CSS specificity calculator
 Play with CSS selector
 
 Learning Objectives
+
 By the end of this project, you should be able to explain the following concepts without needing to refer to Google:
 
 Selectors, properties, and values
@@ -29,6 +32,7 @@ How to transform (2D, 3D) elements
 What vendor prefixes are
 
 Requirements
+
 General
 Allowed editors: vi, vim, emacs, VSCode, Atom
 All your files will be interpreted on Chrome (version 78.x)
@@ -41,3 +45,5 @@ Installation
 To get started with the project, clone the repository and open the files in your preferred code editor:
 
 git clone https://github.com/vincenttwizere/advanced-css-techniques.git
+
+
