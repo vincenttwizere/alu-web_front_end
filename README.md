@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 0x01. Developer tools
 Description:bulb:
 How to use the Chrome DevTools
