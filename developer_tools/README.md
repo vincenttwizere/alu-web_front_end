@@ -70,27 +70,4 @@ Go to https://dev-tools.hbtn.info/ what font library is useed for the icons
 Go to https://dev-tools.hbtn.info/ what is the name of the resource that generates 1 XHR calls
 23. Audits panel
 Go to https://dev-tools.hbtn.info/ what is the notation for performance
-24. Static assets
-Go to https://dev-tools.hbtn.info/ how many static assets need a better cache policy
-25. Accessibility
-Go to https://dev-tools.hbtn.info/ what is the contrast issue
-26. No alt
-Go to https://dev-tools.hbtn.info/ which classes are on the images that have no alt attribute
-27. Best practices
-Go to https://dev-tools.hbtn.info/ which attribute is missing on all the links with the target _blank
-28. SEO
-Go to https://dev-tools.hbtn.info/ which link has text that is not descriptive enough
-29. Sources
-Go to https://dev-tools.hbtn.info/ and create a new snippet
-30. Block CSS files
-Go to https://dev-tools.hbtn.info/ block all CSS requests
-31. Application panel
-Go to https://dev-tools.hbtn.info/ what is the only key present in the session storage for this page
-32. Service workers
-Go to https://dev-tools.hbtn.info/ does this page have any service workers
-33. Security
-Go to https://dev-tools.hbtn.info/ which organization issued the SSL certificate for this page
-34. Expiration date
-Go to https://dev-tools.hbtn.info/ when does the SSL certificate expire
-Author
-Vincent TWIZERE
+
