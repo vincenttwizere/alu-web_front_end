@@ -129,21 +129,4 @@ By the end of this project, you should be able to explain the following concepts
 - How to transform (2D, 3D) elements
 - What vendor prefixes are
 
-## Requirements
 
-### General
-
-- Allowed editors: `vi`, `vim`, `emacs`, `VSCode`, `Atom`
-- All your files will be interpreted on Chrome (version 78.x)
-- All your files should end with a new line
-- All your files should start with a comment describing the task
-- A `README.md` file, at the root of the folder of the project, is mandatory
-- Your code should be W3C compliant and validate with [W3C-Validator](https://validator.w3.org/)
-
-## Installation
-
-To get started with the project, clone the repository and open the files in your preferred code editor:
-
-```bash
-git clone https://github.com/yourusername/advanced-css-techniques.git
->>>>>>> 50633a081c577976b44a51653cf8f0d0dc9ff193
